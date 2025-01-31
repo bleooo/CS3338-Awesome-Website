@@ -1,0 +1,67 @@
+commit b563898e79bb92db27b0af8e38e2258ee8f2fa56
+Merge: 064760f 4644451
+Author: ng, daniel <dng10@go.pasadena.edu>
+Date:   Fri Jan 31 10:40:48 2025 -0800
+
+    refixed index?
+
+commit 064760f31676845781295a6a38d90487fb7f9b2f
+Author: ng, daniel <dng10@go.pasadena.edu>
+Date:   Fri Jan 31 10:38:47 2025 -0800
+
+    added readme back?
+
+commit da58025857d41fb40abc37052fd28073d246168f
+Merge: 352da2e c79c449
+Author: ng, daniel <dng10@go.pasadena.edu>
+Date:   Fri Jan 31 10:35:35 2025 -0800
+
+    resolved conflict
+
+commit c79c449ff86fd9bd23c92ab4e4cf2304e300c045
+Author: ng, daniel <dng10@go.pasadena.edu>
+Date:   Fri Jan 31 10:33:00 2025 -0800
+
+    added my favorite movie
+
+commit 352da2e76248db6847a18a863fbf7fe54f303439
+Author: ng, daniel <dng10@go.pasadena.edu>
+Date:   Fri Jan 31 10:32:01 2025 -0800
+
+    added my favorite food
+
+commit 4644451ff4f5fab1c41c74d64ae9c596a5276862
+Merge: b7c6390 e53750a
+Author: bleooo <120147045+bleooo@users.noreply.github.com>
+Date:   Fri Jan 31 10:29:42 2025 -0800
+
+    Merge pull request #2 from bleooo/info-fill
+    
+    added readme
+
+commit e53750a8586f313daca66811aba228a8377b490d
+Author: ng, daniel <dng10@go.pasadena.edu>
+Date:   Fri Jan 31 10:28:06 2025 -0800
+
+    added readme
+
+commit b7c6390eab027d9e1856ef37bac3212828a624a7
+Merge: 1d2bfc0 d3cd469
+Author: bleooo <120147045+bleooo@users.noreply.github.com>
+Date:   Fri Jan 31 10:24:05 2025 -0800
+
+    Merge pull request #1 from bleooo/info-fill
+    
+    completed index.html
+
+commit d3cd4699235f5fbc27e8131d5ff27e6478be18a2
+Author: ng, daniel <dng10@go.pasadena.edu>
+Date:   Fri Jan 31 10:21:06 2025 -0800
+
+    completed index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
